@@ -1,5 +1,5 @@
 - 👋 This is Elisszta.
--  Now majoring in CS in BIT (Newbie here)
+-  Now majoring in CS in BIT
 -  CN/ENG is OK.
 <!---
 Elisszta/Elisszta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
