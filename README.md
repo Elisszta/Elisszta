@@ -1,6 +1,4 @@
-- 👋 This is Elisszta.
--  Now majoring in CS in BIT
--  CN/ENG is OK.
+- Boring person here.
 <!---
 Elisszta/Elisszta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
